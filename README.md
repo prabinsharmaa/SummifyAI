@@ -1,2 +1,3 @@
 # SummifyAI
-Utilizing open-source software seamlessly integrated via RapidAPI, we facilitate the extraction of comprehensive summarizations. Empowered by ChatGPT-4, an innovative AI tool harnessed from the capabilities of OpenAI, our platform gains the ability to condense extensive and intricate blog articles into succinct, yet insightful, summaries.
+The open source software used with rapidapi fetching summarizations.The ChatGPT-4 AI tool from open ai which helps us to summarize long blog articles. 
+
