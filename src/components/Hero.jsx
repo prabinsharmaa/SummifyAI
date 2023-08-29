@@ -11,7 +11,7 @@ const Hero = () => {
 <button
   type='button'
   onClick={() =>
-    window.open("https://github.com/prabinsharmaa", "_blank")
+    window.open("https://github.com/prabinsharmaa/SummifyAI", "_blank")
   }
   className='black_btn'
 >
@@ -19,8 +19,8 @@ const Hero = () => {
 </button>
 </nav>
 <h1 className='head_text'>
-        Prabin's Summarize Articles with <br className='max-md:hidden' />
-        <span className='orange_gradient '>OpenAI GPT-4</span>
+        Summarize Articles with <br className='max-md:hidden' />
+        <span className='orange_gradient '>GPT-4</span>
       </h1>
       <h2 className='desc'>
         Simplify your reading with AI_summarizer, an open-source article summarizer
